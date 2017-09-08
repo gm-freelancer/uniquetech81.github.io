@@ -205,8 +205,8 @@ header.masthead .intro-text .intro-lead-in {
 }
 
 header.masthead .intro-text .intro-heading {
-    font-size: 50px;
-    font-weight: 700;
+    font-size: 30px;
+    font-weight: 200;
     line-height: 50px;
     margin-bottom: 25px;
     font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -227,8 +227,8 @@ header.masthead .intro-text .intro-heading {
     }
 
     header.masthead .intro-text .intro-heading {
-        font-size: 30px;
-        font-weight: 500;
+        font-size: 20px;
+        font-weight: 200;
         line-height: normal;
         margin-bottom: 50px;
         font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
